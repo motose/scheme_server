@@ -154,7 +154,7 @@
       <span style='font-size:2rem; font-weight:bold; margin-right:30px;'>Scheme DB サービス</span>
     </div>
     <div style='display:flex; align-items:center;'>
-      <a href='https://ja.wikipedia.org/wiki/Gauche' target='_blank' class='nav-btn'>Info</a>
+      <a href='https://ja.wikipedia.org/wiki/Scheme' target='_blank' class='nav-btn'>Info</a>
       <a href='/docs/readme.html' class='nav-btn'>ReadMe</a>
       <img src='https://sv1.etech21.net/assets/eTech21.png' style='height:35px;margin:0 10px;' alt='e-Tech21 Logo'>
       <span style='font-size:1.5rem;color:#666;'>e-Tech21.net</span>
